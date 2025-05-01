@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Arabalar</string>
+    <string name="carBaslik">Hızlı - Arabalar</string>
+    <string name="siyahYazi">Siyah</string>
+    <string name="maviYazi">Mavi</string>
+    <string name="turuncuYazi">Turuncu</string>
+    <string name="kargoSure">1-3 İş Günü</string>
+    <string name="kargoBaslik">Kargo</string>
+    <string name="carsAciklama">Koleksiyonuna yeni bir araba ekle!</string>
+    <string name="fiyatYazi">500 ₺</string>
+    <string name="buttonYazi">Sepete Ekle</string>
+</resources>
